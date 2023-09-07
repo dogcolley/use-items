@@ -1,0 +1,3 @@
+# .dockerignore in the web service directory
+node_modules
+build
